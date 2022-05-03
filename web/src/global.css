@@ -3,7 +3,6 @@
 @tailwind utilities;
 
 
-
-.button {
-  @apply bg-[#825] px-4 h-10 rounded text-violet-100 hover:bg-violet-700 transition-colors
+body{
+  @apply bg-[#09090a] text-zinc-100;
 }
